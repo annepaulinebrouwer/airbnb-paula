@@ -1,0 +1,19 @@
+Sebastian:
+  city: Paris
+  picture_member: ../source/image/seb.jpg
+  role: CTO
+
+Anne:
+  city: Brussels
+  picture_member: anne.jpg
+  role: COO
+
+Romain:
+  city: London
+  picture_member: romain.jpeg
+  role: CEO
+
+Paula:
+  city: Amsterdam
+  picture_member: Paula.jpg
+  role: junior developer
