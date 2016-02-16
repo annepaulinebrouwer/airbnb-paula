@@ -3,7 +3,9 @@
  * ------------------------------------- */
 // Google fonts
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Raleway:400,100,300,700,500");
-$base-font: "Open Sans", "Helvetica", "sans-serif";
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+$base-font: "Slabo 27px", "Helvetica", "serif";
 $header-font: "Raleway", "Helvetica", "sans-serif";
 
 // Local fonts (uncomment following lines)
@@ -17,7 +19,7 @@ $header-font: "Raleway", "Helvetica", "sans-serif";
 // $my-font: "Font Name";
 
 // Font-size and line-height
-$base-size: 16px;
+$base-size: 18px;
 $base-height: 1.4;
 
 /* -------------------------------------
@@ -27,10 +29,14 @@ $base-height: 1.4;
 $brand-color: #D23333;
 
 $red: #EE5F5B;
-$blue: #469AE0;
-$yellow: #FDB631;
+$blue: #531CB3;
+$purple: #944BBB;
+$violet: #AA7BC3;
+$light-pink: #FEF0FF;
+$pink: #DBA8AC;
+$yellow: #DDFD09;
 $orange: #E67E22;
-$green: #32B796;
+$green: #2EB71E;
 
 // Gray scale
 $gray-darker:  lighten(#000, 13.5%); // #222
